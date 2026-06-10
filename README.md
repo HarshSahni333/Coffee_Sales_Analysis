@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](coffee-sales-dashboard.png)
+<img src="Dashboard Preview/CoffeeSalesDashboard.png" width="100%">
 
 ## Project Overview
 
